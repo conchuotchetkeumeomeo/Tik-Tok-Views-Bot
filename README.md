@@ -1,6 +1,6 @@
 ## TikTok Views Bot
 ### This program, unfortunately, no longer works. It was never designed to work forever and rather served as a proof of concept.
-[Here](https://www.tiktok.com/@how_am_i_not_banned) can be found a digital shrine that captures the beauty between the rise of young developers (like myself) crossing paths with the restructuring of a popular social media platform (Tik Tok).
+[Here](https://vt.tiktok.com/ZS6pX6uT9/) can be found a digital shrine that captures the beauty between the rise of young developers (like myself) crossing paths with the restructuring of a popular social media platform (Tik Tok).
 
 <img width="1050" alt="Screenshot 2024-11-21 at 12 31 39 PM" src="https://github.com/user-attachments/assets/97c0b64c-2898-4a6b-8b8e-a8325920f7ca">
 
